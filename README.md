@@ -121,10 +121,10 @@ Add your actual results here after running the notebook:
 
 | Metric   |       Result |
 | -------- | -----------: |
-| MAE      | `YOUR_VALUE` |
-| MSE      | `YOUR_VALUE` |
-| RMSE     | `YOUR_VALUE` |
-| R² Score | `YOUR_VALUE` |
+| MAE      | `147122.887` |
+| MSE      | `60348.4574` |
+| RMSE     | `245658.942` |
+| R² Score | ` 0.6008094` |
 
 ### What the metrics represent
 
